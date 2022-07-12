@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAA;EACR,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,MAAM;CAOrB;;AAXD,AAKI,YALQ,CAKR,EAAE,CAAA;EACE,aAAa,EAAE,IAAI;CACtB;;AAPL,AAQI,YARQ,CAQR,CAAC,CAAA;EACG,KAAK,EAAE,OAAe;CACzB",
+    "sources": [
+        "NovoProjeto.module.scss"
+    ],
+    "names": [],
+    "file": "NovoProjeto.module.css"
+}

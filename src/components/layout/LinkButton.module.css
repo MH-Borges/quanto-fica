@@ -1,0 +1,19 @@
+.btn {
+  background-color: #222;
+  padding: 10px;
+  font-size: 0.8vw;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  margin-top: 25px;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.btn:hover {
+  color: #FFBB33;
+  -webkit-transform: translateY(-5px);
+          transform: translateY(-5px);
+}
+/*# sourceMappingURL=LinkButton.module.css.map */

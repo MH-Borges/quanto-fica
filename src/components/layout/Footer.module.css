@@ -1,0 +1,35 @@
+.space {
+  background-color: #222;
+  padding: 10px 0;
+  color: white;
+  text-align: center;
+}
+
+.space p {
+  font-size: 1vw;
+  font-weight: bold;
+}
+
+.space ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  list-style: none;
+}
+
+.space ul li {
+  margin: 15px;
+  cursor: pointer;
+}
+
+.space ul li svg {
+  font-size: 2.8vw;
+}
+
+.space ul li svg:hover {
+  color: #FFBB33;
+}
+/*# sourceMappingURL=Footer.module.css.map */

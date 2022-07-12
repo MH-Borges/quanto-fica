@@ -1,0 +1,15 @@
+.NovoProjeto {
+  width: 500px;
+  margin: 0 auto;
+  padding: 25px;
+  text-align: center;
+}
+
+.NovoProjeto h1 {
+  margin-bottom: 30px;
+}
+
+.NovoProjeto p {
+  color: #5e5e5e;
+}
+/*# sourceMappingURL=NovoProjeto.module.css.map */

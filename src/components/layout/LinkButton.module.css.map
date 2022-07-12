@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,IAAI;EACtB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,KAAK;EAChB,KAAK,EAAE,KAAK;EACZ,eAAe,EAAE,IAAI;EACrB,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,IAAI;EACjB,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,gBAAgB;CAC/B;;AACD,AAAA,IAAI,AAAA,MAAM,CAAA;EACN,KAAK,EAAE,OAAO;EACd,SAAS,EAAE,gBAAgB;CAC9B",
+    "sources": [
+        "LinkButton.module.scss"
+    ],
+    "names": [],
+    "file": "LinkButton.module.css"
+}
